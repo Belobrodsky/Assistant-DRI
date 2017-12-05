@@ -55,7 +55,7 @@ namespace Моя_картограмма
         /// <summary>
         /// чем больше это число, тем меньше сама картограмма получиться
         /// </summary>
-        public static int CartogramSize = 31;
+        public static int CartogramSize = 35;
 
         public static int MyAxisFontGoalSize = 12;
         public static int MyAxisFontSize=12;
